@@ -9,5 +9,4 @@ variables.json
 jdauphant.nginx
 ansible/vault.key
 .env
-docker-compose.*
 build_info.txt
