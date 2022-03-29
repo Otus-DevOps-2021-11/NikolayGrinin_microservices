@@ -67,6 +67,7 @@ services:
   post:
     # build: ./post-py
     image: ${USER_NAME}/post:${POST_VERSION}
+    container_name: post
     networks:
       - front_net
       - back_net
