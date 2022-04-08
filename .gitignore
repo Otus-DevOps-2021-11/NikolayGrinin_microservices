@@ -9,3 +9,4 @@ variables.json
 jdauphant.nginx
 ansible/vault.key
 .env
+build_info.txt
